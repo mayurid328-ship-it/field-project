@@ -1,4 +1,4 @@
-a=1
-b=5
+a=6
+b=3
 sum=a+b
 print(a+b)
